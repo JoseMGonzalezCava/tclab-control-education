@@ -78,7 +78,7 @@ Each block includes MATLAB scripts designed for both simulation and real-time im
   - `PoleAssignment/`
     - `PoleAssignment.m`
 - `hardware/`
-  - `TCLab_ULL_diagram.pdf`
+  - `Diagram.pdf`
 
 ---
 
