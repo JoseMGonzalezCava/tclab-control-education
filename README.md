@@ -66,4 +66,13 @@ These materials were developed to support practical learning activities in Contr
 
 ## License
 
-MIT License
+This project is licensed under the MIT License.
+
+If you use this material in academic work, please cite the associated publication.
+
+## Citation
+
+If you use this repository, please cite the associated article:
+"Cerrando la brecha teoría-práctica: itinerario de aprendizaje activo para la enseñanza de Ingeniería de Control"
+(under review in Revista Iberoamericana de Automática e Informática Industrial (RIAI))
+
